@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\שחר.DESKTOP-MBM8EME\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\שחר.DESKTOP-MBM8EME\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_ReactJs.-1803296081.00" t="ExcludeRecursive" />
+    <e p="D:\www\ReactJs\Api" t="IncludeRecursive">
+      <e p="Api.csproj" t="IncludeRecursive" />
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="containerRegistration.json" t="Include" />
+      <e p="Controllers" t="Include">
+        <e p="BaseController.cs" t="Include" />
+        <e p="ProductsController.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.2" t="Include">
+            <e p="Api.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+        <e p="PublishProfiles" t="Include">
+          <e p="FolderProfile.pubxml" t="Include" />
+        </e>
+      </e>
+      <e p="Startup.cs" t="Include" />
+      <e p="test.html" t="Include" />
+    </e>
+    <e p="D:\www\ReactJs\BL" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="BL.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.2" t="Include">
+            <e p="BL.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="ProductsBl.cs" t="Include" />
+      <e p="Sample.cs" t="Include" />
+    </e>
+    <e p="D:\www\ReactJs\Infrastructure" t="IncludeRecursive">
+      <e p="Base.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Constants.cs" t="Include" />
+      <e p="Data" t="Include">
+        <e p="ApplicationDbContext.cs" t="Include" />
+        <e p="ApplicationUsers.cs" t="Include" />
+        <e p="AspNetRoleClaims.cs" t="Include" />
+        <e p="AspNetRoles.cs" t="Include" />
+        <e p="AspNetUserClaims.cs" t="Include" />
+        <e p="AspNetUserLogins.cs" t="Include" />
+        <e p="AspNetUserRoles.cs" t="Include" />
+        <e p="AspNetUsers.cs" t="Include" />
+        <e p="AspNetUserTokens.cs" t="Include" />
+        <e p="Products.cs" t="Include" />
+        <e p="ProductTypes.cs" t="Include" />
+        <e p="Scaffold.txt" t="Include" />
+        <e p="SpecialTags.cs" t="Include" />
+      </e>
+      <e p="DTO" t="Include">
+        <e p="ResultDTO.cs" t="Include" />
+      </e>
+      <e p="Infrastructure.csproj" t="IncludeRecursive" />
+      <e p="IOC" t="Include">
+        <e p="IIocContainer.cs" t="Include" />
+        <e p="IocContainer.cs" t="Include" />
+      </e>
+      <e p="Misc" t="Include">
+        <e p="CacheManager.cs" t="Include" />
+        <e p="ICacheManager.cs" t="Include" />
+        <e p="Utils.cs" t="Include" />
+      </e>
+      <e p="Models" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.2" t="Include">
+            <e p="Infrastructure.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+    </e>
+    <e p="D:\www\ReactJs\ReactJs" t="IncludeRecursive">
+      <e p=".babelrc" t="Include" />
+      <e p=".gitignore" t="Include" />
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="ClientApp" t="Include">
+        <e p=".gitignore" t="Include" />
+        <e p="node_modules" t="Include">
+          <e p="ajv" t="IncludeRecursive" />
+          <e p="babel-core" t="IncludeRecursive" />
+          <e p="babel-eslint" t="IncludeRecursive" />
+          <e p="babel-preset-mobx" t="IncludeRecursive" />
+          <e p="babel-runtime" t="IncludeRecursive" />
+          <e p="bootstrap" t="IncludeRecursive" />
+          <e p="cross-env" t="IncludeRecursive" />
+          <e p="eslint" t="IncludeRecursive" />
+          <e p="eslint-config-react-app" t="IncludeRecursive" />
+          <e p="eslint-plugin-flowtype" t="IncludeRecursive" />
+          <e p="eslint-plugin-import" t="IncludeRecursive" />
+          <e p="eslint-plugin-jsx-a11y" t="IncludeRecursive" />
+          <e p="eslint-plugin-react" t="IncludeRecursive" />
+          <e p="jquery" t="IncludeRecursive" />
+          <e p="react" t="IncludeRecursive" />
+          <e p="react-dom" t="IncludeRecursive" />
+          <e p="react-redux" t="IncludeRecursive" />
+          <e p="react-router-bootstrap" t="IncludeRecursive" />
+          <e p="react-router-dom" t="IncludeRecursive" />
+          <e p="react-router-redux" t="IncludeRecursive" />
+          <e p="react-scripts" t="IncludeRecursive" />
+          <e p="reactstrap" t="IncludeRecursive" />
+          <e p="redux" t="IncludeRecursive" />
+          <e p="redux-thunk" t="IncludeRecursive" />
+          <e p="rimraf" t="IncludeRecursive" />
+          <e p="symbol-observable" t="IncludeRecursive" />
+        </e>
+        <e p="package-lock.json" t="Include" />
+        <e p="package.json" t="Include" />
+        <e p="public" t="Include">
+          <e p="favicon.ico" t="Include" />
+          <e p="index.html" t="Include" />
+          <e p="manifest.json" t="Include" />
+        </e>
+        <e p="README.md" t="Include" />
+        <e p="src" t="Include">
+          <e p="components" t="Include">
+            <e p="App.js" t="Include" />
+            <e p="Layout.js" t="Include" />
+            <e p="Modals.js" t="Include" />
+            <e p="Pages.js" t="Include" />
+            <e p="SecondMainPage.js" t="Include" />
+            <e p="StateContext.js" t="Include" />
+            <e p="Store.js" t="Include" />
+            <e p="Wrappers.js" t="Include" />
+          </e>
+          <e p="css" t="Include">
+            <e p="app.css" t="Include" />
+            <e p="modals.css" t="Include" />
+          </e>
+          <e p="index.js" t="Include" />
+          <e p="registerServiceWorker.js" t="Include" />
+          <e p="Utils.js" t="Include" />
+        </e>
+      </e>
+      <e p="config" t="Include">
+        <e p="env.js" t="Include" />
+        <e p="jest" t="Include">
+          <e p="cssTransform.js" t="Include" />
+          <e p="fileTransform.js" t="Include" />
+        </e>
+        <e p="paths.js" t="Include" />
+        <e p="polyfills.js" t="Include" />
+        <e p="webpack.config.dev.js" t="Include" />
+        <e p="webpack.config.prod.js" t="Include" />
+        <e p="webpackDevServer.config.js" t="Include" />
+      </e>
+      <e p="config-overrides.js" t="Include" />
+      <e p="global.json" t="Include" />
+      <e p="jsconfig.json" t="Include" />
+      <e p="node_modules\@babel\core" t="IncludeRecursive" />
+      <e p="node_modules\@babel\plugin-proposal-class-properties" t="IncludeRecursive" />
+      <e p="node_modules\@babel\plugin-proposal-decorators" t="IncludeRecursive" />
+      <e p="node_modules\@babel\preset-env" t="IncludeRecursive" />
+      <e p="node_modules\ajv" t="IncludeRecursive" />
+      <e p="node_modules\autoprefixer" t="IncludeRecursive" />
+      <e p="node_modules\axios" t="IncludeRecursive" />
+      <e p="node_modules\babel-core" t="IncludeRecursive" />
+      <e p="node_modules\babel-eslint" t="IncludeRecursive" />
+      <e p="node_modules\babel-jest" t="IncludeRecursive" />
+      <e p="node_modules\babel-loader" t="IncludeRecursive" />
+      <e p="node_modules\babel-plugin-transform-class-properties" t="IncludeRecursive" />
+      <e p="node_modules\babel-plugin-transform-decorators-legacy" t="IncludeRecursive" />
+      <e p="node_modules\babel-preset-mobx" t="IncludeRecursive" />
+      <e p="node_modules\babel-preset-react-app" t="IncludeRecursive" />
+      <e p="node_modules\babel-runtime" t="IncludeRecursive" />
+      <e p="node_modules\bootstrap" t="IncludeRecursive" />
+      <e p="node_modules\case-sensitive-paths-webpack-plugin" t="IncludeRecursive" />
+      <e p="node_modules\chalk" t="IncludeRecursive" />
+      <e p="node_modules\cross-env" t="IncludeRecursive" />
+      <e p="node_modules\css-loader" t="IncludeRecursive" />
+      <e p="node_modules\custom-react-scripts" t="IncludeRecursive" />
+      <e p="node_modules\customize-cra" t="IncludeRecursive" />
+      <e p="node_modules\dotenv" t="IncludeRecursive" />
+      <e p="node_modules\dotenv-expand" t="IncludeRecursive" />
+      <e p="node_modules\es6-promise" t="IncludeRecursive" />
+      <e p="node_modules\eslint" t="IncludeRecursive" />
+      <e p="node_modules\eslint-config-react-app" t="IncludeRecursive" />
+      <e p="node_modules\eslint-loader" t="IncludeRecursive" />
+      <e p="node_modules\eslint-plugin-flowtype" t="IncludeRecursive" />
+      <e p="node_modules\eslint-plugin-import" t="IncludeRecursive" />
+      <e p="node_modules\eslint-plugin-jsx-a11y" t="IncludeRecursive" />
+      <e p="node_modules\eslint-plugin-react" t="IncludeRecursive" />
+      <e p="node_modules\extract-text-webpack-plugin" t="IncludeRecursive" />
+      <e p="node_modules\fast-deep-equal" t="IncludeRecursive" />
+      <e p="node_modules\file-loader" t="IncludeRecursive" />
+      <e p="node_modules\fs-extra" t="IncludeRecursive" />
+      <e p="node_modules\history" t="IncludeRecursive" />
+      <e p="node_modules\html-webpack-plugin" t="IncludeRecursive" />
+      <e p="node_modules\jest" t="IncludeRecursive" />
+      <e p="node_modules\jquery" t="IncludeRecursive" />
+      <e p="node_modules\mobx" t="IncludeRecursive" />
+      <e p="node_modules\mobx-react" t="IncludeRecursive" />
+      <e p="node_modules\mobx-react-lite" t="IncludeRecursive" />
+      <e p="node_modules\object-assign" t="IncludeRecursive" />
+      <e p="node_modules\postcss-flexbugs-fixes" t="IncludeRecursive" />
+      <e p="node_modules\postcss-loader" t="IncludeRecursive" />
+      <e p="node_modules\promise" t="IncludeRecursive" />
+      <e p="node_modules\raf" t="IncludeRecursive" />
+      <e p="node_modules\react" t="IncludeRecursive" />
+      <e p="node_modules\react-app-rewired" t="IncludeRecursive" />
+      <e p="node_modules\react-dev-utils" t="IncludeRecursive" />
+      <e p="node_modules\react-dom" t="IncludeRecursive" />
+      <e p="node_modules\react-redux" t="IncludeRecursive" />
+      <e p="node_modules\react-router-bootstrap" t="IncludeRecursive" />
+      <e p="node_modules\react-router-dom" t="IncludeRecursive" />
+      <e p="node_modules\react-router-redux" t="IncludeRecursive" />
+      <e p="node_modules\reactstrap" t="IncludeRecursive" />
+      <e p="node_modules\redux" t="IncludeRecursive" />
+      <e p="node_modules\redux-thunk" t="IncludeRecursive" />
+      <e p="node_modules\resolve" t="IncludeRecursive" />
+      <e p="node_modules\rimraf" t="IncludeRecursive" />
+      <e p="node_modules\rxjs" t="IncludeRecursive" />
+      <e p="node_modules\style-loader" t="IncludeRecursive" />
+      <e p="node_modules\sw-precache-webpack-plugin" t="IncludeRecursive" />
+      <e p="node_modules\symbol-observable" t="IncludeRecursive" />
+      <e p="node_modules\tslib" t="IncludeRecursive" />
+      <e p="node_modules\url-loader" t="IncludeRecursive" />
+      <e p="node_modules\webpack" t="IncludeRecursive" />
+      <e p="node_modules\webpack-dev-server" t="IncludeRecursive" />
+      <e p="node_modules\webpack-manifest-plugin" t="IncludeRecursive" />
+      <e p="node_modules\whatwg-fetch" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.2" t="Include">
+            <e p="ReactJs.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="package-lock.json" t="Include" />
+      <e p="package.json" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+        <e p="PublishProfiles" t="Include">
+          <e p="FolderProfile.pubxml" t="Include" />
+        </e>
+      </e>
+      <e p="ReactJs.csproj" t="IncludeRecursive" />
+      <e p="ReactJs.sln" t="IncludeFlat" />
+      <e p="scripts" t="Include">
+        <e p="build.js" t="Include" />
+        <e p="start.js" t="Include" />
+        <e p="test.js" t="Include" />
+      </e>
+      <e p="Startup.cs" t="Include" />
+      <e p="tsconfig.json" t="Include" />
+      <e p="webpack.config.js" t="Include" />
+    </e>
+    <e p="D:\www\ReactJs\Repository" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.2" t="Include">
+            <e p="Repository.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="ProductsRepo.cs" t="Include" />
+      <e p="Repository.csproj" t="IncludeRecursive" />
+      <e p="SampleRepo.cs" t="Include" />
+    </e>
+  </component>
+</project>

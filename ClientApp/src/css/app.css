@@ -1,0 +1,48 @@
+﻿body {
+    padding: 0ox;
+    margin: 0px;
+}
+
+.greenBg {
+    background-color: springgreen;
+}
+
+
+.blueBg {
+    background-color: royalblue;
+}
+
+.header, .footer {
+    background-color: plum;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+}
+
+main {
+    padding: 20px;
+    background-color: rosybrown;
+}
+
+.link {
+    border: solid 1px royalblue;
+    height: 30px;
+    padding: 3px 10px 3px 10px;
+    color: navy;
+    background-color: #0094ff;
+    text-decoration: none;
+}
+
+    .link:hover {
+        background-color: #00ffff;
+    }
+
+.active {
+    border: solid 1px royalblue;
+    height: 30px;
+    padding: 3px 10px 3px 10px;
+    color: navy;
+    background-color: seagreen;
+    text-decoration: none;
+}

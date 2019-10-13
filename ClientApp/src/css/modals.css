@@ -1,0 +1,82 @@
+﻿.modalGeneral {
+    position: fixed;
+    z-index: 500;
+    background-color: white;
+    width: 500px;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 1px black;
+    padding: 16px;
+    left: calc(50% - 250px);
+    top: 40%;
+    box-sizing: border-box;
+    transition: all 0.3s ease-out;
+    text-align: right;
+    direction: rtl;
+    font-family: Arial;
+    display: none;
+}
+
+    .modalGeneral .msg {
+        text-align: left;
+        font-size: 10px;
+        color: dimgray;
+        font-weight: bold;
+    }
+
+    .modalGeneral .icon {
+        font-size: 30px;
+        font-weight: bold;
+        color: blue;
+        font-family: Arial;
+        position: relative;
+        float: right;
+        padding-left: 5px;
+    }
+
+    .modalGeneral .text {
+        margin-top: 6px;
+        position: relative;
+        float: right;
+    }
+
+
+.modalWarning {
+    position: fixed;
+    z-index: 500;
+    background-color: white;
+    width: 500px;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 1px black;
+    padding: 16px;
+    left: calc(50% - 250px);
+    top: 40%;
+    box-sizing: border-box;
+    transition: all 0.3s ease-out;
+    text-align: right;
+    direction: rtl;
+    font-family: Arial;
+    display: none;
+}
+
+    .modalWarning .msg {
+        text-align: left;
+        font-size: 10px;
+        color: dimgray;
+        font-weight: bold;
+    }
+
+    .modalWarning .icon {
+        font-size: 30px;
+        font-weight: bold;
+        color: red;
+        font-family: Arial;
+        position: relative;
+        float: right;
+        padding-left: 5px;
+    }
+
+    .modalWarning .text {
+        margin-top: 6px;
+        position: relative;
+        float: right;
+    }
